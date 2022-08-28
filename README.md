@@ -1,2 +1,2 @@
 # WordMixer
-Mixed the added words
+Mixes the added words
